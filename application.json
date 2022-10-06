@@ -1,11 +1,23 @@
 {
   "pages": [
     {
-      "id": "Send Messages",
+      "id": "Car showroom",
       "isDefault": false
     },
     {
-      "id": "Customer Data",
+      "id": "Car servicing",
+      "isDefault": false
+    },
+    {
+      "id": "Business dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Send Messages2",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data2",
       "isDefault": false
     },
     {
@@ -16,8 +28,8 @@
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#C7F3E3",
-  "icon": "book",
+  "color": "#FBF4ED",
+  "icon": "bitcoin",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },

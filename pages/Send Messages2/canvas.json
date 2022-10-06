@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Send Messages",
-    "slug": "send-messages",
+    "name": "Send Messages2",
+    "slug": "send-messages2",
     "layouts": [
       {
         "viewMode": false,
@@ -3252,6 +3252,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Send Messages2_NumberOfCustomers",
               "name": "NumberOfCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3259,6 +3260,7 @@
               "timeoutInMillisecond": 10000
             },
             {
+              "id": "Send Messages2_doNotDisturbCount",
               "name": "doNotDisturbCount",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3268,6 +3270,7 @@
           ],
           [
             {
+              "id": "Send Messages2_GetMarketingList",
               "name": "GetMarketingList",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -3284,7 +3287,7 @@
           "Table2"
         ],
         "validOnPageLoadActions": true,
-        "id": "Send Messages",
+        "id": "Send Messages2",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -3295,5 +3298,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "633e863cfb14fb2dfb0362b2_633e8653fb14fb2dfb0362bf"
+  "gitSyncId": "633e8c43fb14fb2dfb0362dc_633e8c73fb14fb2dfb0362fd"
 }

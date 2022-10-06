@@ -1,0 +1,14 @@
+{
+  "unpublishedCollection": {
+    "name": "randomID",
+    "pageId": "Car servicing",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\trandomSalesID: () => {\n    return Math.ceil(Math.random() * (9999 -  + 1)) + 1;\n},\n\trandomCustomerID: () => {\n    return Math.ceil(Math.random() * (99999 -  + 1)) + 1;\n} \n\t}",
+    "variables": []
+  },
+  "id": "Car servicing_randomID",
+  "deleted": false
+}
